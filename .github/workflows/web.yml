@@ -1,4 +1,4 @@
-name: Netology React
+name: React_4.1-hex2rgb
 
 on: [push, pull_request]
 
